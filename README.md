@@ -11,6 +11,6 @@ The flowers_baseline.py file runs the transfer learning framework on the Flowers
 The tiny_imagenet_baseline.py trains the distilled-BagNet architecture on the tiny-ImageNet framework. 
 
 
-
+The rest of the files are libraries containing the various distilled-BagNet, vanilla-BagNet and vanilla-CNN architectures. THe imness.py file computes the spatial orderness of the feature maps (used in the analysis)
 
 
